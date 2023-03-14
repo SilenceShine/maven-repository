@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.SilenceShine</groupId>
+  <artifactId>shine-framework-cloud-httpinterface</artifactId>
+  <versioning>
+    <versions>
+      <version>0.4.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230314101437</lastUpdated>
+  </versioning>
+</metadata>
