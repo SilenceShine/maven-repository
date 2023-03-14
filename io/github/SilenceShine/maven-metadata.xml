@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-repository-github-plugin</name>
+      <prefix>repository-github</prefix>
+      <artifactId>maven-repository-github-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
