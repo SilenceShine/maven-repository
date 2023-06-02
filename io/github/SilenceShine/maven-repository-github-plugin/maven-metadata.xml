@@ -3,11 +3,10 @@
   <groupId>io.github.SilenceShine</groupId>
   <artifactId>maven-repository-github-plugin</artifactId>
   <versioning>
-    <latest>0.0.1</latest>
     <release>0.0.1</release>
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20230314081730</lastUpdated>
+    <lastUpdated>20230602070110</lastUpdated>
   </versioning>
 </metadata>
