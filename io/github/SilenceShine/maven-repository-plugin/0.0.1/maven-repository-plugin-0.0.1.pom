@@ -6,7 +6,7 @@
   <artifactId>maven-repository-plugin</artifactId>
   <version>0.0.1</version>
   <packaging>pom</packaging>
-  <name>maven-repository-plugin</name>
+  <name>${artifactId}</name>
   <description>maven-repository-plugin</description>
   <url>https://github.com/SilenceShine/maven-repository-plugin</url>
   <modules>
@@ -30,16 +30,16 @@
   </distributionManagement>
   <properties>
     <java.version>8</java.version>
+    <github-api.version>1.314</github-api.version>
     <maven-plugin-plugin.version>3.8.1</maven-plugin-plugin.version>
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <maven-plugin.version>3.9.0</maven-plugin.version>
-    <flatten-maven-plugin.version>1.2.7</flatten-maven-plugin.version>
     <maven-plugin-annotations.version>3.8.1</maven-plugin-annotations.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <flatten-maven-plugin.version>1.2.7</flatten-maven-plugin.version>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <revision>0.0.1</revision>
+    <maven-plugin.version>3.9.0</maven-plugin.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven-repository-github-plugin.version>0.0.1</maven-repository-github-plugin.version>
-    <github-api.version>1.314</github-api.version>
     <maven-deploy-plugin.version>3.1.0</maven-deploy-plugin.version>
   </properties>
   <dependencies>
