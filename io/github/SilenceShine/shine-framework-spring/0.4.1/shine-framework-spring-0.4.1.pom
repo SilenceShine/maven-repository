@@ -25,7 +25,6 @@
   </modules>
   <properties>
     <spring-cloud-dependencies.version>2022.0.2</spring-cloud-dependencies.version>
-    <spring-cloud-square-dependencies.version>0.5.0-SNAPSHOT</spring-cloud-square-dependencies.version>
     <mybatis-plus-boot-starter.version>3.5.3.1</mybatis-plus-boot-starter.version>
     <spring-boot-dependencies.version>3.1.0</spring-boot-dependencies.version>
     <spring-cloud-alibaba-dependencies.version>2022.0.0.0-RC2</spring-cloud-alibaba-dependencies.version>
@@ -51,13 +50,6 @@
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-commons-dependencies</artifactId>
         <version>${spring-cloud-commons-dependencies.version}</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-      <dependency>
-        <groupId>org.springframework.cloud</groupId>
-        <artifactId>spring-cloud-square-dependencies</artifactId>
-        <version>${spring-cloud-square-dependencies.version}</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
