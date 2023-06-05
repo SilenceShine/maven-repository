@@ -3,16 +3,16 @@
   <groupId>io.github.SilenceShine</groupId>
   <artifactId>shine-framework</artifactId>
   <versioning>
-    <lastUpdated>20230605032247</lastUpdated>
+    <lastUpdated>20230605035352</lastUpdated>
     <snapshot>
-      <timestamp>20230605.032247</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20230605.035352</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.4.2-20230605.032247-3</value>
-        <updated>20230605032247</updated>
+        <value>0.4.2-20230605.035352-1</value>
+        <updated>20230605035352</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
