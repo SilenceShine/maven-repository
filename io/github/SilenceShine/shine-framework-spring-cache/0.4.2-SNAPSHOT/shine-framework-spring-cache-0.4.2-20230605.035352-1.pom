@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.github.SilenceShine</groupId>
+    <artifactId>shine-framework-spring</artifactId>
+    <version>0.4.2-SNAPSHOT</version>
+  </parent>
+  <groupId>io.github.SilenceShine</groupId>
+  <artifactId>shine-framework-spring-cache</artifactId>
+  <version>0.4.2-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>io.github.SilenceShine</groupId>
+      <artifactId>shine-framework-spring-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>io.github.SilenceShine</groupId>
+      <artifactId>shine-framework-jackson</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.data</groupId>
+      <artifactId>spring-data-redis</artifactId>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-autoconfigure</artifactId>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>io.projectreactor</groupId>
+      <artifactId>reactor-core</artifactId>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.datatype</groupId>
+      <artifactId>jackson-datatype-jsr310</artifactId>
+    </dependency>
+  </dependencies>
+</project>
