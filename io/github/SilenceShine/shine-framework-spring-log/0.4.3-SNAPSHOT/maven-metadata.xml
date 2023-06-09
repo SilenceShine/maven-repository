@@ -3,21 +3,21 @@
   <groupId>io.github.SilenceShine</groupId>
   <artifactId>shine-framework-spring-log</artifactId>
   <versioning>
-    <lastUpdated>20230609035650</lastUpdated>
+    <lastUpdated>20230609071456</lastUpdated>
     <snapshot>
-      <timestamp>20230609.035650</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20230609.071456</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.4.3-20230609.035650-2</value>
-        <updated>20230609035650</updated>
+        <value>0.4.3-20230609.071456-1</value>
+        <updated>20230609071456</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.4.3-20230609.035650-2</value>
-        <updated>20230609035650</updated>
+        <value>0.4.3-20230609.071456-1</value>
+        <updated>20230609071456</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
