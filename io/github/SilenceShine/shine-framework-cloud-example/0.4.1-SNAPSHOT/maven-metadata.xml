@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.github.SilenceShine</groupId>
+  <artifactId>shine-framework-cloud-example</artifactId>
+  <versioning>
+    <lastUpdated>20230314101437</lastUpdated>
+    <snapshot>
+      <timestamp>20230314.101437</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4.1-20230314.101437-1</value>
+        <updated>20230314101437</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.4.1-SNAPSHOT</version>
+</metadata>

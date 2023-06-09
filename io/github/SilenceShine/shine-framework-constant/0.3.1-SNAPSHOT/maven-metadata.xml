@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.github.SilenceShine</groupId>
+  <artifactId>shine-framework-constant</artifactId>
+  <versioning>
+    <lastUpdated>20230314085252</lastUpdated>
+    <snapshot>
+      <timestamp>20230314.085252</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3.1-20230314.085252-1</value>
+        <updated>20230314085252</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.1-20230314.085252-1</value>
+        <updated>20230314085252</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.3.1-20230314.085252-1</value>
+        <updated>20230314085252</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.3.1-SNAPSHOT</version>
+</metadata>
