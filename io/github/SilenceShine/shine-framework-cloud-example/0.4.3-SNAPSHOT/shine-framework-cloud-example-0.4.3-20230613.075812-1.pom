@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>io.github.SilenceShine</groupId>
+    <artifactId>shine-framework-cloud</artifactId>
+    <version>0.4.3-SNAPSHOT</version>
+  </parent>
+  <groupId>io.github.SilenceShine</groupId>
+  <artifactId>shine-framework-cloud-example</artifactId>
+  <version>0.4.3-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>shine-framework-cloud-example-webclient</module>
+  </modules>
+  <properties>
+    <spring-cloud-alibaba-dependencies.version>2022.0.0.0-RC1</spring-cloud-alibaba-dependencies.version>
+  </properties>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>com.alibaba.cloud</groupId>
+        <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+        <version>${spring-cloud-alibaba-dependencies.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+</project>
