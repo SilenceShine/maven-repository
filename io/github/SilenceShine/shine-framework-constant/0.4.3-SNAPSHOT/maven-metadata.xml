@@ -3,27 +3,27 @@
   <groupId>io.github.SilenceShine</groupId>
   <artifactId>shine-framework-constant</artifactId>
   <versioning>
-    <lastUpdated>20230613075941</lastUpdated>
+    <lastUpdated>20231116021758</lastUpdated>
     <snapshot>
-      <timestamp>20230613.075941</timestamp>
+      <timestamp>20231116.021758</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.4.3-20230613.075941-1</value>
-        <updated>20230613075941</updated>
+        <value>0.4.3-20231116.021758-1</value>
+        <updated>20231116021758</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.4.3-20230613.075941-1</value>
-        <updated>20230613075941</updated>
+        <value>0.4.3-20231116.021758-1</value>
+        <updated>20231116021758</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.4.3-20230613.075941-1</value>
-        <updated>20230613075941</updated>
+        <value>0.4.3-20231116.021758-1</value>
+        <updated>20231116021758</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
